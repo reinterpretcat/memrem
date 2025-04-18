@@ -9,7 +9,13 @@ A static, serverless web application for learning foreign languages through flas
 
 Memory Remains is a purely client-side web application designed for language learning. It features a comprehensive flashcard system with spaced repetition, grammar lessons, and progress tracking - all without any backend dependencies.
 
-I've built it for myself using LLMs (I'm not a front-end SE) with a goal to prepare to B1 exam.
+I've built it for myself using LLMs (I'm not a front-end SE) with the goal to prepare to B1 exam.
+
+<img src="https://github.com/user-attachments/assets/71249f56-f491-4e3d-9b5a-8ba3affd45a1" width="400">
+<img src="https://github.com/user-attachments/assets/ffc9a0b4-f9bd-4bc6-a264-afa04be5f048" width="400">
+<img src="https://github.com/user-attachments/assets/e5db9da3-1416-4f45-8ed5-5896ee212da7" width="400">
+<img src="https://github.com/user-attachments/assets/0ede464a-df06-4b21-b0cc-6dd23ecb76af" width="400">
+
 
 ## Features
 
@@ -17,8 +23,10 @@ I've built it for myself using LLMs (I'm not a front-end SE) with a goal to prep
 - **File Explorer**: Browse language content organized the way you
 - **Flashcard System**: Learn vocabulary and phrases through interactive flashcards
 - **Spaced Repetition** (Experimental): Advanced SRS algorithm to optimize review intervals
-- **Grammar Learning**: Structured grammar lessons with examples
-- **Chat with LLM**: allows you to chat with LLM (via openrouter) and even generate a new cards based on your content
+- **Chat with LLM**: allows you to chat with LLM (via openrouter) and even generate a new cards based on your content which you can start learning in one click
+<img src="https://github.com/user-attachments/assets/a0461ca0-003c-421e-ae9e-a32171363a90" width="400">
+<img src="https://github.com/user-attachments/assets/0227280d-0314-40a3-8e39-49d9aabe743a" width="400">
+
 
 
 ### Technical Highlights
